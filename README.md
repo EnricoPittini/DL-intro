@@ -8,4 +8,4 @@ Introduction to DL in Keras and Tensorflow, not very polite. A ML background is 
 4. [Segmentation](https://github.com/EnricoPittini/DL-intro/tree/main/4%20Segmentation)
 5. [Generative Models](https://github.com/EnricoPittini/DL-intro/tree/main/5%20Generative%20Models)
 6. [Recurrent NN](https://github.com/EnricoPittini/DL-intro/tree/main/6%20Recurrent%20NN)
-7. [Some examples]()
+7. [Some examples](https://github.com/EnricoPittini/DL-intro/tree/main/Some%20examples)
