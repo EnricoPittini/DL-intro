@@ -1,0 +1,6 @@
+The task consists in creating a deblurring deep learning model, aimed to remove gaussian blur and gaussian noise from images. 
+
+You will need to create a model which, taken a blurred image X, is able to reconstruct the original deblurred image y. 
+
+The dataset is built starting from CIFAR-10 images collection, we created a Python function to perform the creation of the dataset without 
+you downloading it. Do not modify the function, but feel free to further split the data to build a validation set, if needed. 
