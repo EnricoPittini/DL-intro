@@ -1,5 +1,5 @@
 # DL-intro
-Introduction to DL in Keras and Tensorflow, not very polite. A ML background is recquired.
+Introduction to Deep Learning in Keras and Tensorflow, not very polite. A basic Machine Learning background is recquired.
 
 ## Contents
 1. [Dense NN](https://github.com/EnricoPittini/DL-intro/tree/main/1%20Dense%20NN)
